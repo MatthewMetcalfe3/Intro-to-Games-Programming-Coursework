@@ -1,0 +1,125 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.12.8579]
+    Renderer: NVIDIA GeForce 8800 GTX
+    Vendor:   NVIDIA
+    VRAM:     735 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-0305AA88 (this message is harmless)
+Non platform assembly: data-030C1290 (this message is harmless)
+Non platform assembly: data-030C6518 (this message is harmless)
+Non platform assembly: data-030CD578 (this message is harmless)
+The tree Thin Tree Collider couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/Terrain/TreeDatabase.cpp Line: 36)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 607.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Platform assembly: G:\games programming\Game_Data\Managed\Boo.Lang.dll (this message is harmless)
+object picked upmachineGun
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:OnControllerColliderHit(ControllerColliderHit)
+UnityEngine.CharacterController:INTERNAL_CALL_Move(CharacterController, Vector3&)
+UnityEngine.CharacterController:Move(Vector3)
+CharacterMotor:UpdateFunction()
+CharacterMotor:FixedUpdate()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Hit the barrel
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+hitTeleport
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:OnControllerColliderHit(ControllerColliderHit)
+UnityEngine.CharacterController:INTERNAL_CALL_Move(CharacterController, Vector3&)
+UnityEngine.CharacterController:Move(Vector3)
+CharacterMotor:UpdateFunction()
+CharacterMotor:FixedUpdate()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Hit the barrel
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Hit the barrel
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Hit the barrel
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Hit the barrel
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Hit the barrel
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+Hit the barrel
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+object picked upmachineGun
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:OnControllerColliderHit(ControllerColliderHit)
+UnityEngine.CharacterController:INTERNAL_CALL_Move(CharacterController, Vector3&)
+UnityEngine.CharacterController:Move(Vector3)
+CharacterMotor:UpdateFunction()
+CharacterMotor:FixedUpdate()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+object picked upmachineGun
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PlayerScript:OnControllerColliderHit(ControllerColliderHit)
+UnityEngine.CharacterController:INTERNAL_CALL_Move(CharacterController, Vector3&)
+UnityEngine.CharacterController:Move(Vector3)
+CharacterMotor:UpdateFunction()
+CharacterMotor:FixedUpdate()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerScript.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)

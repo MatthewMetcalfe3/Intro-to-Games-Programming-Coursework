@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{79AFFA95-4557-2597-F0CB-D9905058F2CA}") = "games programming", "Assembly-CSharp-firstpass.csproj", "{98022A20-0DBC-A638-BB5B-4833F41A55EB}"
+EndProject
+Project("{79AFFA95-4557-2597-F0CB-D9905058F2CA}") = "games programming", "Assembly-UnityScript-firstpass.unityproj", "{3721FBF4-B872-106A-C8F3-BA4DBBD3090F}"
+EndProject
+Project("{79AFFA95-4557-2597-F0CB-D9905058F2CA}") = "games programming", "Assembly-UnityScript.unityproj", "{7BF5E4A9-E3BA-93A9-2EAE-204A2BA59F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98022A20-0DBC-A638-BB5B-4833F41A55EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98022A20-0DBC-A638-BB5B-4833F41A55EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98022A20-0DBC-A638-BB5B-4833F41A55EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98022A20-0DBC-A638-BB5B-4833F41A55EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3721FBF4-B872-106A-C8F3-BA4DBBD3090F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3721FBF4-B872-106A-C8F3-BA4DBBD3090F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3721FBF4-B872-106A-C8F3-BA4DBBD3090F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3721FBF4-B872-106A-C8F3-BA4DBBD3090F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF5E4A9-E3BA-93A9-2EAE-204A2BA59F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF5E4A9-E3BA-93A9-2EAE-204A2BA59F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF5E4A9-E3BA-93A9-2EAE-204A2BA59F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF5E4A9-E3BA-93A9-2EAE-204A2BA59F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
